@@ -2,5 +2,5 @@
 $sisi = 8;
 $luas = $sisi * $sisi;
 
-"echo = $sisi  $luas";
+echo "Luas Persegi dengan sisi = $sisi adalah $luas";
 ?>
