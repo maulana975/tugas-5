@@ -2,5 +2,5 @@
 $sisi = 8;
 $luas = $sisi * $sisi;
 
-"echo  $sisi = $luas";
+"echo = $sisi  $luas";
 ?>
