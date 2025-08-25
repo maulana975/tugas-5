@@ -1,0 +1,8 @@
+<?php
+$p = 8;
+$l = 5;
+$t = 3;
+$volume = $p * $l * $t;
+
+echo "Volume Balok dengan panjang $p, lebar $l, tinggi $t adalah: $volume";
+?>
